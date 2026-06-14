@@ -7,7 +7,7 @@ const About = () => {
    <div className="flex flex-col md:flex-row items-center gap-12 py-20">
 
   <img
-    src="../../public/soft.png"
+    src="./soft.png"
     alt="Software Development"
     className="w-full md:w-1/2 rounded-2xl shadow-2xl "
   />

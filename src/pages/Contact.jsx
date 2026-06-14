@@ -11,7 +11,7 @@ const Contact = () => {
         {/* Left Side - Image */}
         <div className="md:w-1/2">
           <img
-            src="/hkh.png"
+            src="./hkh.png"
             alt="Contact"
             className="w-full rounded-3xl shadow-2xl"
           />

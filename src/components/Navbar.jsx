@@ -27,7 +27,7 @@ export default Navbar
 const Logo = () => {
   return (
     <div className="w-19 h-19">
-      <img src="/public/ChatGPT Image Jun 14, 2026, 12_52_55 AM.png" alt="logo" className="rounded-2xl"/>
+      <img src="./ChatGPT Image Jun 14, 2026, 12_52_55 AM.png" alt="logo" className="rounded-2xl"/>
     </div>
   )
 }

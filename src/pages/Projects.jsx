@@ -7,7 +7,7 @@ const Projects = () => {
    <div className="flex flex-col md:flex-row items-center gap-12 py-20">
 
   <img
-    src="../../public/jj.png"
+    src="./jj.png"
     alt="Software Development"
     className="w-full md:w-1/2 rounded-2xl shadow-2xl mx-5"
   />
@@ -30,7 +30,7 @@ const Projects = () => {
    <div className="flex flex-col md:flex-row items-center gap-12 py-20">
 
   <img
-    src="../../public/kk (2).png"
+    src="./kk (2).png"
     alt="Software Development"
     className="w-full md:w-1/2 rounded-2xl shadow-2xl mx-5 "
   />

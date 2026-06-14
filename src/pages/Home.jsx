@@ -4,7 +4,7 @@ const Home = () => {
 
       <div className="max-w-4xl text-center mt-5 ">
 
-        <img src="/public/iiii.png" alt="Home_img" className="rounded-2xl"/>
+        <img src="./iiii.png" alt="Home_img" className="rounded-2xl"/>
 
         <h2 className="text-2xl md:text-3xl text-white font-medium mb-2 mt-4">
           Welcome to
